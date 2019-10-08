@@ -15,6 +15,11 @@ function genday()
     var odyr;
     var x;
     
+    
+    
+    if(date<=31 && month<=12)
+       {
+    
     year=year-1;
         if(year%400==0)
             {
@@ -221,5 +226,12 @@ function genday()
                     swal("Try again");
                      break;
         }
+}
+else
+    {
+        
+        swal("dude do you really know about months and dates..lol");
+        
+    }
     
     }
