@@ -3,9 +3,7 @@
 hey fellas this is a simple app just for finding your
 birth day using 
 
--- > JAVA SCRIPT as backend tool
-
--- > HTML and CSS as front end
+--> HTML + JS + CSS Design
 
 -- > also with 
 
